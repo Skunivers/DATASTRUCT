@@ -1,3 +1,5 @@
+    package lessons;
+
 /**
  * 第一课：数组基础
  * 

@@ -1,3 +1,5 @@
+package thinking_process;
+
 /**
  * 问题解决思维过程深度分析
  * 

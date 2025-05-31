@@ -1,3 +1,5 @@
+package exercises;
+
 /**
  * 数组练习题
  * 
@@ -29,8 +31,6 @@ public class ArrayExercises {
     public static int[] exercise1_CreateAndFillArray() {
         // TODO: 在这里完成你的代码
         // 提示：使用for循环来填充数组
-
-        
         
         int[] arr = new int[10];
         for (int i = 0; i < arr.length; i++) {

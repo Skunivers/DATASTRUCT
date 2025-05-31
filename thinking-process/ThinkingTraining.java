@@ -1,3 +1,5 @@
+package thinking_process;
+
 /**
  * 思维训练练习
  * 
