@@ -1,4 +1,4 @@
-package thinking_process;
+package thinkingprocess;
 
 /**
  * 思维训练练习
